@@ -1,0 +1,35 @@
+.list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90%;
+}
+.heading {
+  color: #00e7ff;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.curr-image {
+  height: 40%;
+  width: 40%;
+}
+.items-container {
+  display: flex;
+  width: 90%;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 10px;
+}
+.logo-currency-container {
+  display: flex;
+  align-items: center;
+}
+.currency {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}

@@ -1,0 +1,22 @@
+.items-container {
+  display: flex;
+  width: 90%;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 10px;
+}
+.logo-currency-container {
+  display: flex;
+  align-items: center;
+}
+.currency {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.logo {
+  width: 50px;
+  height: 50px;
+}
